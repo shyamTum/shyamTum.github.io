@@ -1,0 +1,71 @@
+title: "Shyam Sundar Debsarkar"
+name: "Shyam Sundar Debsarkar"
+description: "AI Research Scientist | PhD Candidate | Multimodal & Agentic AI for Biomedical Imaging"
+url: "https://shyamTum.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+locale: "en-US"
+markdown: kramdown
+highlighter: rouge
+
+# Site author (used by theme)
+author:
+  name: "Shyam Debsarkar"
+  avatar: "/assets/img/headshot.jpg"
+  bio: "PhD Candidate (Computer Science) | Multimodal & Agentic AI (LLMs/VLMs/RAG) | Computational Imaging"
+  location: "Cincinnati, OH, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:YOUR_EMAIL_HERE"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/shyamTum"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/YOUR_LINKEDIN"
+
+# Defaults: nice layout + readable width
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+
+# Header navigation
+header_pages:
+  - _pages/about.md
+  - _pages/research.md
+  - _pages/publications.md
+  - _pages/projects.md
+  - _pages/cv.md
+  - _pages/contact.md
+
+# Optional: enable search (client-side)
+search: true
+
+# Optional: social preview
+twitter:
+  username: ""
+
+# Exclude clutter
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
