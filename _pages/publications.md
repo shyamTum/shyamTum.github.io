@@ -1,27 +1,37 @@
 ---
-title: "Publications"
+title: Publications
 permalink: /publications/
-layout: single
-classes: wide
-author_profile: true
 ---
 
-## Selected publications (high signal)
+# Selected Publications
 
-1. **Your paper title** — Venue/Journal, Year.  
-   Links: [PDF](#) · [Code](#) · [Project](#)
+## 2026
 
-2. **Your paper title** — Venue/Journal, Year.  
-   Links: [PDF](#) · [Code](#)
+### A Multi-Expert Deep Learning Framework with LLM-Guided Arbitration for Multimodal Histopathology Prediction
+Computerized Medical Imaging and Graphics (CMIG)
 
-3. **Your paper title** — Venue/Journal, Year.
+### SpaDiffHis: Diffusion-Based Histopathology Generation with Point-Map Conditioning
+IEEE JBHI
 
----
-
-## Full list
-Add your full bibliography here (group by year). Keep formatting consistent.
+### Public H&E Imaging Datasets of Pathology for Artificial Intelligence: A Review
+Journal of Imaging Informatics in Medicine
 
 ---
 
-## Under review / preprints (clearly marked)
-- **Paper title** — Under review, Year.
+## 2025
+
+### Unsupervised Biomarker Discovery via Vision-Language Model Fusion
+Neural Computing & Applications
+
+### Advancements in Automated Nuclei Segmentation using YOLO-Driven Approaches
+Computers in Biology and Medicine
+
+### Multimodal Ensemble Fusion Deep Learning for Glioma Subtype Classification
+IEEE Access
+
+---
+
+## 2024
+
+### Deep Learning-Based IDH1 Mutation Prediction via WSI + Clinical Fusion
+Computers in Biology and Medicine
