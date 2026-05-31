@@ -1,81 +1,72 @@
 ---
-title: "Home"
-permalink: /
-layout: single
-classes: wide
-author_profile: true
+layout: home
+title: Home
 ---
 
-# Shyam Debsarkar
+# Shyam Sundar Debsarkar
 
-**PhD Candidate (Computer Science)** — building **multimodal and agentic AI systems** for **biomedical imaging** and **computational pathology**.  
-I work on **LLM/VLM-assisted reasoning**, **retrieval-augmented pipelines (RAG)**, **diffusion/generative modeling**, and **scalable ML** for clinical and scientific imaging.
+## PhD (ABD), Computer Science | University of Cincinnati
 
-<div style="margin-top: 1.2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
-  <a class="btn btn--primary" href="/projects/">View Projects</a>
-  <a class="btn btn--info" href="/publications/">Publications</a>
-  <a class="btn btn--success" href="/cv/">Download CV</a>
-  <a class="btn btn--inverse" href="/contact/">Contact</a>
-</div>
+AI Researcher specializing in:
 
----
-
-## Research snapshot (high signal)
-
-- **Agentic / multi-expert AI** for diagnosis and decision support (specialist models + arbitration, reliability, uncertainty-aware workflows)
-- **Multimodal learning**: image + metadata + text (foundation models, VLM embeddings, clinical attributes)
-- **Generative computational imaging**: diffusion/inpainting and data synthesis for robust downstream performance
-- **Scalable training & evaluation** on HPC (A100/V100 class GPUs), reproducibility-first pipelines
+- Multimodal AI
+- Foundation Models
+- Large Language Models (LLMs)
+- Vision Language Models (VLMs)
+- Agentic AI
+- Medical Imaging
+- Computer Vision
+- Retrieval-Augmented Generation (RAG)
+- Diffusion Models
 
 ---
 
-## Highlights (replace with your strongest numbers)
+## Quick Facts
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.8rem; margin-top: 0.6rem;">
-  <div class="notice--primary">
-    <strong>Multimodal glioma subtype</strong><br/>
-    AUC: <strong>0.967</strong> (example)<br/>
-    TCGA / WSI-based modeling
-  </div>
-  <div class="notice--primary">
-    <strong>Diffusion histopath synthesis</strong><br/>
-    FID: <strong>36.4</strong> (example)<br/>
-    Dice: <strong>0.83</strong> (example)
-  </div>
-  <div class="notice--primary">
-    <strong>Agentic LLM arbitration</strong><br/>
-    Accuracy: <strong>0.796</strong> (example)<br/>
-    AUC: <strong>0.783</strong> (example)
-  </div>
-  <div class="notice--primary">
-    <strong>Scale & tooling</strong><br/>
-    PyTorch, HF, W&B, DDP<br/>
-    reproducible evaluation
-  </div>
-</div>
+- PhD (ABD), University of Cincinnati
+- 10+ Years Software & AI Experience
+- 10+ Peer-Reviewed Publications
+- AI Research Assistant, Procter & Gamble
+- Software Architect, Jambit GmbH
+- Experience with A100 / V100 / H100 HPC Clusters
 
 ---
 
-## Featured projects
+## Featured Research
 
-### 1) Multi-agent / arbitration for medical imaging
-**Goal:** robust prediction by combining specialist models + arbitration.  
-**What I did:** system design, evaluation, reliability analysis, ablations.  
-→ See: **/projects/**
+### Multi-Expert Deep Learning Framework with LLM-Guided Arbitration
 
-### 2) Diffusion-based synthesis for pathology
-**Goal:** generate realistic patches/masks to improve downstream training.  
-**What I did:** synthesis pipeline, mask extraction strategy, metrics + qualitative evaluation.  
-→ See: **/projects/**
+Multimodal histopathology prediction using expert models and LLM-based arbitration.
 
-### 3) Multimodal WSI pipelines & foundation models
-**Goal:** fuse image features + metadata and benchmark VLM embeddings.  
-**What I did:** embeddings, clustering/biomarkers, multimodal modeling.  
-→ See: **/projects/**
+### SpaDiffHis
+
+Diffusion-based histopathology image generation using sparse point-map conditioning.
+
+### IDH1 Mutation Prediction
+
+Multimodal WSI + clinical fusion for glioma mutation prediction.
+
+### VLM-Based Biomarker Discovery
+
+Unsupervised biomarker discovery using pathology foundation models and metadata integration.
 
 ---
 
-## Quick links
-- **CV:** /cv/
-- **Publications:** /publications/
-- **Contact:** /contact/
+## Featured Projects
+
+- AI-Assisted Antibody Design Platform
+- Laboratory Agentic RAG Platform
+- DermPath AI Explorer
+- TEM Image Analysis Pipelines
+
+---
+
+[View CV](/cv)
+
+[Publications](/publications)
+
+[Research](/research)
+
+[Projects](/projects)
+
+[Contact](/contact)
