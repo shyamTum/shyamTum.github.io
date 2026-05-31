@@ -1,37 +1,53 @@
 ---
-title: "Projects"
+title: Projects
 permalink: /projects/
-layout: single
-classes: wide
-author_profile: true
 ---
 
-## Featured projects
+# Projects
 
-### Project A — Agentic arbitration for medical imaging
-**Problem:** Improve reliability over single-model baselines.  
-**Approach:** Specialist models + arbitration + evidence grounding.  
-**Results:** (Add 2–3 key numbers).  
-**Your contribution:** system design, modeling, evaluation, ablations.
+## AI-Assisted Antibody Design Platform
 
-**Links:** [Paper](#) · [Code](#) · [Demo](#)
+Tools:
+- FoldX
+- ABEVO
+- Gradio
+- Python
 
-<hr/>
+---
 
-### Project B — Diffusion-based synthesis for pathology
-**Problem:** Data scarcity / domain shifts.  
-**Approach:** Diffusion synthesis + quality evaluation + downstream validation.  
-**Results:** (FID/Dice/whatever is strongest).  
-**Your contribution:** pipeline design, mask strategy, evaluation.
+## Laboratory Agentic RAG Platform
 
-**Links:** [Paper](#) · [Code](#)
+Tools:
+- LangGraph
+- LangChain
+- FAISS
+- FastAPI
+- Gradio
 
-<hr/>
+---
 
-### Project C — Multimodal WSI + metadata + foundation models
-**Problem:** leverage rich metadata with imaging.  
-**Approach:** embeddings + fusion models + biomarker discovery pipeline.  
-**Results:** (AUC/accuracy or discovery highlights).  
-**Your contribution:** embeddings extraction, fusion, analysis.
+## DermPath AI Explorer
 
-**Links:** [Paper](#) · [Code](#)
+Tools:
+- DINOv2
+- CLIP
+- UMAP
+- KMeans
+- VLMs
+
+---
+
+## TEM Image Analysis
+
+Tasks:
+- Denoising
+- Segmentation
+- Continual Learning
+
+---
+
+## Multimodal Glioma Classification
+
+WSI + Clinical Data Fusion
+
+AUC: 0.967
