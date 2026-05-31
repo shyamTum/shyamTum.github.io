@@ -8,7 +8,7 @@ author_profile: true
 
 ## AI Researcher | PhD (ABD), Computer Science | University of Cincinnati
 
-I develop AI systems for **multimodal learning, medical imaging, foundation models, LLM/VLM systems, agentic RAG, diffusion models, and computational pathology**. My work connects biomedical AI research with practical software engineering and deployable AI tools.
+I develop AI systems for **multimodal learning, medical imaging, foundation models, LLM/VLM systems, RAG, Agentic AI, diffusion models, and computational pathology**. My work connects biomedical AI research with practical software engineering and deployable AI tools.
 
 [Download CV](/cv/) · [Publications](/publications/) · [Projects](/projects/) · [Research](/research/) · [Contact](/contact/)
 
