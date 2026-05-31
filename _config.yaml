@@ -3,6 +3,7 @@ name: "Shyam Sundar Debsarkar"
 description: "AI Research Scientist | PhD Candidate | Multimodal & Agentic AI for Biomedical Imaging"
 url: "https://shyamTum.github.io"
 baseurl: ""
+url: "mailto:debsarss@mail.uc.edu"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -21,7 +22,7 @@ highlighter: rouge
 author:
   name: "Shyam Debsarkar"
   avatar: "/assets/img/headshot.jpg"
-  bio: "PhD Candidate (Computer Science) | Multimodal & Agentic AI (LLMs/VLMs/RAG) | Computational Imaging"
+  bio: "PhD (ABD), Computer Science. AI Researcher in Multimodal AI, Medical Imaging, LLMs, VLMs, RAG, and Generative AI."
   location: "Cincinnati, OH, USA"
   links:
     - label: "Email"
@@ -29,13 +30,13 @@ author:
       url: "mailto:YOUR_EMAIL_HERE"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+      url: "https://scholar.google.com/citations?user=F7fDbbwAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/shyamTum"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR_LINKEDIN"
+      url: "https://www.linkedin.com/in/shyam-debsarkar/"
 
 # Defaults: nice layout + readable width
 defaults:
