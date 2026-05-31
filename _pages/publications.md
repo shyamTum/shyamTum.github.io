@@ -1,37 +1,50 @@
 ---
 title: Publications
 permalink: /publications/
+layout: single
+author_profile: true
 ---
 
 # Selected Publications
 
-## 2026
+<div class="card">
+<h2>Deep Learning-Based IDH1 Gene Mutation Prediction via WSI + Clinical Fusion</h2>
+**Computers in Biology and Medicine, 2024**
 
-### A Multi-Expert Deep Learning Framework with LLM-Guided Arbitration for Multimodal Histopathology Prediction
-Computerized Medical Imaging and Graphics (CMIG)
+Developed a multimodal pipeline combining histopathology WSIs and clinical data for IDH1 mutation prediction in glioma.
+</div>
 
-### SpaDiffHis: Diffusion-Based Histopathology Generation with Point-Map Conditioning
-IEEE JBHI
+<div class="card">
+<h2>A Multi-Expert Deep Learning Framework with LLM-Guided Arbitration for Multimodal Histopathology Prediction</h2>
+**Computerized Medical Imaging and Graphics, 2026**
 
-### Public H&E Imaging Datasets of Pathology for Artificial Intelligence: A Review
-Journal of Imaging Informatics in Medicine
+Designed a multi-expert AI framework using LLM-guided arbitration for robust multimodal histopathology prediction.
+</div>
 
----
+<div class="card">
+<h2>SpaDiffHis: Diffusion-Based Histopathology Generation with Point-Map Conditioning</h2>
+**IEEE JBHI, 2026**
 
-## 2025
+Proposed a sparse-point guided diffusion framework for generating synthetic histopathology images and paired masks.
+</div>
 
-### Unsupervised Biomarker Discovery via Vision-Language Model Fusion
-Neural Computing & Applications
+<div class="card">
+<h2>Unsupervised Biomarker Discovery via Vision-Language Model Fusion</h2>
+**Neural Computing & Applications, 2025**
 
-### Advancements in Automated Nuclei Segmentation using YOLO-Driven Approaches
-Computers in Biology and Medicine
+Evaluated VLM embeddings for unsupervised biomarker discovery using WSI patches and metadata integration.
+</div>
 
-### Multimodal Ensemble Fusion Deep Learning for Glioma Subtype Classification
-IEEE Access
+<div class="card">
+<h2>Advancements in Automated Nuclei Segmentation using YOLO-Driven Approaches</h2>
+**Computers in Biology and Medicine, 2025**
 
----
+Systematic review of YOLO-based nuclei detection and segmentation methods in histopathology.
+</div>
 
-## 2024
+<div class="card">
+<h2>End-to-End Multimodal Multiple Instance Learning for Cancer Histopathology Classification with Dual-Attention Fusion</h2>
+**JMS, 2026**
 
-### Deep Learning-Based IDH1 Mutation Prediction via WSI + Clinical Fusion
-Computers in Biology and Medicine
+Developed a multimodal MIL framework for cancer histopathology classification using dual-attention fusion.
+</div>
