@@ -1,71 +1,66 @@
 body {
-  font-family: "Inter", "Segoe UI", Arial, sans-serif;
-  color: #1f2933;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif !important;
+  color: #1f2933 !important;
 }
 
 .page__content {
-  font-size: 17px;
-  line-height: 1.75;
+  font-size: 15px !important;
+  line-height: 1.6 !important;
 }
 
-h1, h2, h3 {
-  font-weight: 700;
-  color: #172033;
+.page__content p,
+.page__content li {
+  font-size: 15px !important;
+  line-height: 1.6 !important;
+}
+
+.page__content h1 {
+  font-size: 30px !important;
 }
 
 .page__content h2 {
-  border-bottom: 2px solid #e5e7eb;
+  font-size: 22px !important;
+  border-bottom: 1px solid #e5e7eb;
   padding-bottom: 6px;
-  margin-top: 36px;
+  margin-top: 30px;
 }
 
-.card {
+.page__content h3 {
+  font-size: 18px !important;
+}
+
+.author__name {
+  font-size: 17px !important;
+}
+
+.author__bio,
+.author__urls {
+  font-size: 13px !important;
+}
+
+.masthead__menu-item {
+  font-size: 15px !important;
+}
+
+.card,
+.project-card {
   border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 20px;
-  margin: 18px 0;
-  background: #ffffff;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
-}
-
-.badge {
-  display: inline-block;
-  background: #eef2ff;
-  color: #263a8b;
-  padding: 5px 10px;
-  border-radius: 999px;
-  font-size: 14px;
-  margin: 4px 4px 4px 0;
-}
-
-.metric-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 14px;
-  margin: 22px 0;
-}
-
-.metric {
-  background: #f8fafc;
   border-radius: 12px;
-  padding: 16px;
-  text-align: center;
-  border: 1px solid #e5e7eb;
+  padding: 16px 18px;
+  margin: 16px 0;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 
-.metric strong {
-  display: block;
-  font-size: 24px;
-  color: #0f172a;
-}
-
+.quick-links a,
 .button-link {
   display: inline-block;
-  padding: 10px 16px;
-  margin: 6px 6px 6px 0;
-  background: #1d4ed8;
+  padding: 7px 12px;
+  margin: 5px 6px 5px 0;
+  background: #0f4c81;
   color: white !important;
-  border-radius: 8px;
+  border-radius: 6px;
   text-decoration: none;
+  font-size: 14px;
   font-weight: 600;
 }
