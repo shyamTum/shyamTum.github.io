@@ -48,8 +48,8 @@ defaults:
       author_profile: true
 
 # Header navigation
-header_pages:
-  - _pages/about.md
+include:
+  - _pages
   - _pages/research.md
   - _pages/publications.md
   - _pages/projects.md
