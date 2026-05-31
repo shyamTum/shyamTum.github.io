@@ -18,9 +18,9 @@ I develop AI systems for **multimodal learning, medical imaging, foundation mode
 
 **Primary Areas:** Multimodal AI, Computer Vision, Medical Imaging, Computational Pathology, Foundation Models, LLMs, VLMs, Agentic AI, RAG, Generative AI, Diffusion Models, TEM Image Analysis.
 
-**Technical Stack:** Python, PyTorch, TensorFlow, OpenCV, scikit-learn, NumPy, Pandas, LangGraph, LangChain, FastAPI, FAISS, SentenceTransformers, Gradio, Docker, Git, AWS/Azure, HPC clusters with A100/V100/H100 GPUs.
+**Technical Stack:** Python, PyTorch, TensorFlow, OpenCV, scikit-learn, NumPy, Pandas, LangGraph, LangChain, FastAPI, FAISS, Pinecone, SentenceTransformers, Gradio, Docker, Git, AWS/Azure, HPC clusters with A100/V100/H100 GPUs.
 
-**Experience:** PhD research in biomedical AI, AI Graduate Research Assistant at Procter & Gamble, and 10+ years of combined software architecture and AI research experience.
+**Experience:** PhD research in AI primarily focused on Biomedical applications, AI Graduate Research Assistant at Procter & Gamble, and 6+ years of combined software architecture and AI research experience.
 
 ---
 
