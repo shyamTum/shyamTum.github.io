@@ -75,8 +75,3 @@ An AI-assisted dermatopathology image exploration tool for unlabeled skin histop
 
 **Keywords:** Dermatopathology, CZI Images, CLIP, DINOv2, UMAP, Clustering, Similarity Search, VLM Interpretation.
 
----
-
-## Current Career Focus
-
-I am currently seeking **AI Research Scientist, Applied Scientist, Research Engineer, GenAI Scientist, Multimodal AI Scientist, and Foundation Model Scientist** roles where I can contribute to advanced AI systems for real-world scientific, biomedical, and industrial applications.
