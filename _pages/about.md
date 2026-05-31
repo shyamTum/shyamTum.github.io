@@ -1,26 +1,29 @@
 ---
-title: "About"
+title: About
 permalink: /about/
-layout: single
-classes: wide
-author_profile: true
 ---
 
-## Short bio
+# About Me
 
-I am a **PhD Candidate in Computer Science** focused on **AI for biomedical imaging** and **computational pathology**.  
-My research spans **multimodal ML**, **agentic AI (LLM/VLM + retrieval)**, and **generative diffusion models** for robust learning and reasoning.
+I am Shyam Sundar Debsarkar, a PhD (ABD) researcher in Computer Science at the University of Cincinnati.
 
-## What I’m optimizing for (dual-purpose)
+My research focuses on:
 
-- **Industry AI Research Scientist:** strong evidence of impact, reproducibility, scalable engineering, clear metrics, demos/code.
-- **Academia / Tenure-track:** clear research narrative, publications, talks, mentorship/teaching, and long-term vision.
+- Multimodal AI
+- Medical Imaging
+- Foundation Models
+- LLMs
+- VLMs
+- Agentic AI
+- Generative AI
+- Diffusion Models
 
-## Core skills
+I have over 10 years of combined experience spanning:
 
-- **Deep Learning:** PyTorch, Transformers, diffusion models, segmentation/classification
-- **Foundation models:** VLM embeddings, LLM tool use, RAG pipelines
-- **ML + Stats:** classical ML baselines, ablations, uncertainty, evaluation rigor
-- **Infra:** HPC training, DDP, experiment tracking, reproducibility
+- AI Research
+- Software Architecture
+- Computer Vision
+- Deep Learning
+- Enterprise Software Development
 
-> Tip: Replace sections with your exact phrasing from your best CV version.
+My long-term goal is to contribute to cutting-edge AI research in industry and academia.
