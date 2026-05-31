@@ -1,15 +1,10 @@
 ---
-title: "CV"
+title: CV
 permalink: /cv/
-layout: single
-classes: wide
-author_profile: true
 ---
 
-## Download
-- **PDF:** [Shyam_Debsarkar_CV.pdf](/assets/cv/Shyam_Debsarkar_CV.pdf)
+# Curriculum Vitae
 
-## CV highlights (optional)
-- PhD Candidate, Computer Science
-- Focus: Multimodal & Agentic AI (LLMs/VLMs/RAG), computational imaging, diffusion
-- Strong results across classification/segmentation/generation tasks (add your best metrics)
+Download my latest CV below.
+
+[Download CV](../assets/cv/Shyam_Debsarkar_CV.pdf)
