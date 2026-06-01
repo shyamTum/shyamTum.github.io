@@ -89,28 +89,3 @@ An AI-assisted dermatopathology image exploration tool for unlabeled skin histop
 
 **Keywords:** Dermatopathology, CZI Images, CLIP, DINOv2, UMAP, Clustering, Similarity Search, VLM Interpretation.
 
-<div class="hero-box">
-
-# Shyam Sundar Debsarkar
-
-## AI Researcher | PhD (ABD), Computer Science | University of Cincinnati
-
-I build multimodal AI, foundation model, medical imaging, RAG, agentic AI, and generative AI systems for scientific and biomedical applications.
-
-<div class="profile-hero">
-  <h1>Shyam Sundar Debsarkar</h1>
-  <h2>AI Researcher | PhD (ABD), Computer Science | University of Cincinnati</h2>
-  <p>
-    I build multimodal AI, foundation model, medical imaging, RAG, agentic AI,
-    and generative AI systems for scientific and biomedical applications.
-  </p>
-
-  <div class="hero-buttons">
-    <a href="/cv/">Download CV</a>
-    <a href="/publications/">Publications</a>
-    <a href="/projects/">Projects</a>
-    <a href="/contact/">Contact</a>
-  </div>
-</div>
-
-</div>
