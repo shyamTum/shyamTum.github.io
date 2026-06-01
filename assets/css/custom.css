@@ -1,11 +1,17 @@
+/* =========================
+   Global typography
+========================= */
+
 body {
   font-family: "Inter", "Segoe UI", Arial, sans-serif !important;
   color: #1f2933 !important;
+  background: #ffffff !important;
 }
 
 .page__content {
   font-size: 15px !important;
   line-height: 1.6 !important;
+  max-width: 900px !important;
 }
 
 .page__content p,
@@ -16,41 +22,163 @@ body {
 
 .page__content h1 {
   font-size: 30px !important;
+  line-height: 1.2 !important;
+  margin-bottom: 14px !important;
+  color: #111827 !important;
 }
 
 .page__content h2 {
   font-size: 22px !important;
-  border-bottom: 1px solid #e5e7eb;
-  padding-bottom: 6px;
-  margin-top: 30px;
+  line-height: 1.3 !important;
+  color: #111827 !important;
+  border-bottom: 1px solid #e5e7eb !important;
+  padding-bottom: 6px !important;
+  margin-top: 30px !important;
+  margin-bottom: 14px !important;
 }
 
 .page__content h3 {
   font-size: 18px !important;
+  line-height: 1.35 !important;
+  color: #1f2937 !important;
+  margin-top: 20px !important;
+  margin-bottom: 8px !important;
 }
 
-.author__name {
-  font-size: 17px !important;
+.page__content hr {
+  margin: 24px 0 !important;
 }
 
-.author__bio,
-.author__urls {
-  font-size: 13px !important;
+/* =========================
+   Top navigation
+========================= */
+
+.site-title {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  color: #1f2937 !important;
 }
 
 .masthead__menu-item {
   font-size: 15px !important;
 }
 
-.card,
-.project-card {
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 16px 18px;
-  margin: 16px 0;
-  background: #ffffff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+/* =========================
+   Sidebar / author profile
+========================= */
+
+.sidebar {
+  min-width: 285px !important;
+  font-size: 14px !important;
 }
+
+.author__avatar {
+  display: block !important;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+}
+
+.author__avatar img {
+  width: 155px !important;
+  height: 155px !important;
+  max-width: 155px !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 50% !important;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+  transform: none !important;
+}
+
+.author__avatar:hover,
+.author__avatar img:hover,
+.author__avatar a:hover,
+.sidebar img:hover {
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+  transform: none !important;
+}
+
+.author__name {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin-top: 12px !important;
+  color: #111827 !important;
+}
+
+.author__bio {
+  font-size: 13.5px !important;
+  line-height: 1.45 !important;
+  color: #4b5563 !important;
+}
+
+.author__urls {
+  font-size: 14px !important;
+}
+
+.author__urls a {
+  color: #374151 !important;
+}
+
+/* =========================
+   Homepage hero banner
+========================= */
+
+.profile-hero {
+  background:
+    linear-gradient(120deg, rgba(15, 23, 42, 0.92), rgba(30, 64, 175, 0.82), rgba(20, 184, 166, 0.75)),
+    url("/assets/img/hero-ai-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff !important;
+  padding: 52px 48px;
+  border-radius: 18px;
+  margin-bottom: 34px;
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.22);
+}
+
+.profile-hero h1 {
+  color: #ffffff !important;
+  font-size: 36px !important;
+  margin-top: 0 !important;
+  margin-bottom: 10px !important;
+  border-bottom: none !important;
+}
+
+.profile-hero h2 {
+  color: #e0f2fe !important;
+  border-bottom: none !important;
+  font-size: 22px !important;
+  margin-top: 0 !important;
+  margin-bottom: 14px !important;
+}
+
+.profile-hero p {
+  color: #f8fafc !important;
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  max-width: 850px !important;
+}
+
+.hero-buttons a {
+  display: inline-block;
+  background: #ffffff;
+  color: #0f172a !important;
+  padding: 8px 14px;
+  border-radius: 8px;
+  margin-right: 8px;
+  margin-top: 12px;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* =========================
+   Buttons / quick links
+========================= */
 
 .quick-links a,
 .button-link {
@@ -65,64 +193,109 @@ body {
   font-weight: 600;
 }
 
-/* Sidebar sizing */
-.sidebar {
-  font-size: 14px !important;
-  min-width: 260px !important;
+/* =========================
+   Cards
+========================= */
+
+.card,
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin: 16px 0;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.045);
 }
 
-.author__avatar img {
-  width: 130px !important;
-  height: 130px !important;
-  border-radius: 50% !important;
-}
-
-.author__name {
-  font-size: 20px !important;
-  font-weight: 700 !important;
-}
-
-.author__bio {
-  font-size: 14px !important;
-  line-height: 1.5 !important;
-}
-
-.author__urls {
-  font-size: 14px !important;
-}
-
-.hero-box {
-  background: linear-gradient(135deg, #0f172a, #1e3a8a, #0f766e);
-  color: white;
-  padding: 42px 46px;
-  border-radius: 18px;
-  margin-bottom: 32px;
-  box-shadow: 0 10px 28px rgba(0,0,0,0.18);
-}
-
-.hero-box h1 {
-  color: white !important;
+.card h3,
+.project-card h3 {
   margin-top: 0 !important;
+  color: #111827 !important;
 }
 
-.hero-box h2 {
-  color: #e0f2fe !important;
-  border-bottom: none !important;
+.project-card p {
+  margin-bottom: 8px !important;
 }
 
-.hero-box p {
-  color: #f8fafc !important;
-  font-size: 16px !important;
-}
+/* =========================
+   Tags / badges
+========================= */
 
-.hero-links a {
+.badge {
   display: inline-block;
-  background: white;
-  color: #0f172a !important;
-  padding: 8px 14px;
-  border-radius: 8px;
-  margin-right: 8px;
-  margin-top: 10px;
-  font-weight: 700;
-  text-decoration: none;
+  background: #eef2ff;
+  color: #263a8b;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  margin: 4px 4px 4px 0;
+}
+
+.tags {
+  font-size: 13px !important;
+  color: #4b5563 !important;
+  margin-top: 8px !important;
+}
+
+/* =========================
+   Metrics
+========================= */
+
+.metrics,
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 12px;
+  margin: 18px 0 24px 0;
+}
+
+.metric-box,
+.metric {
+  border: 1px solid #e5e7eb;
+  background: #f8fafc;
+  border-radius: 10px;
+  padding: 14px;
+  font-size: 14px;
+}
+
+.metric-box strong,
+.metric strong {
+  display: block;
+  font-size: 20px;
+  color: #111827;
+}
+
+/* =========================
+   Tables
+========================= */
+
+.page__content table {
+  font-size: 14px !important;
+}
+
+.page__content th {
+  background: #f3f4f6 !important;
+}
+
+/* =========================
+   Mobile responsiveness
+========================= */
+
+@media (max-width: 768px) {
+  .profile-hero {
+    padding: 32px 24px;
+  }
+
+  .profile-hero h1 {
+    font-size: 28px !important;
+  }
+
+  .profile-hero h2 {
+    font-size: 18px !important;
+  }
+
+  .author__avatar img {
+    width: 120px !important;
+    height: 120px !important;
+  }
 }
