@@ -90,3 +90,39 @@ body {
 .author__urls {
   font-size: 14px !important;
 }
+
+.hero-box {
+  background: linear-gradient(135deg, #0f172a, #1e3a8a, #0f766e);
+  color: white;
+  padding: 42px 46px;
+  border-radius: 18px;
+  margin-bottom: 32px;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.18);
+}
+
+.hero-box h1 {
+  color: white !important;
+  margin-top: 0 !important;
+}
+
+.hero-box h2 {
+  color: #e0f2fe !important;
+  border-bottom: none !important;
+}
+
+.hero-box p {
+  color: #f8fafc !important;
+  font-size: 16px !important;
+}
+
+.hero-links a {
+  display: inline-block;
+  background: white;
+  color: #0f172a !important;
+  padding: 8px 14px;
+  border-radius: 8px;
+  margin-right: 8px;
+  margin-top: 10px;
+  font-weight: 700;
+  text-decoration: none;
+}
