@@ -64,3 +64,29 @@ body {
   font-size: 14px;
   font-weight: 600;
 }
+
+/* Sidebar sizing */
+.sidebar {
+  font-size: 14px !important;
+  min-width: 260px !important;
+}
+
+.author__avatar img {
+  width: 130px !important;
+  height: 130px !important;
+  border-radius: 50% !important;
+}
+
+.author__name {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+}
+
+.author__bio {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+}
+
+.author__urls {
+  font-size: 14px !important;
+}
