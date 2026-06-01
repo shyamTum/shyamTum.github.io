@@ -121,9 +121,9 @@ I developed healthcare-oriented software systems, including a mobile app used ac
 
 ## Technical Expertise
 
-**AI / ML:** Deep Learning, Computer Vision, Medical Imaging, Multimodal AI, Foundation Models, LLMs, VLMs, RAG, Agentic AI, Diffusion Models, GANs, Segmentation, Detection, Classification.
+**AI / ML:** Deep Learning, Computer Vision, Medical Imaging, Multimodal AI, Foundation Models, LLMs, VLMs, RAG, Agentic AI, LLM Posttraining - DPO/PPO/RLHF, Diffusion Models, GANs, Segmentation, Detection, Classification.
 
-**Frameworks:** Python, PyTorch, TensorFlow, OpenCV, scikit-learn, NumPy, Pandas, Hugging Face, LangChain, LangGraph, FastAPI, Gradio.
+**Frameworks:** Python, PyTorch, TensorFlow, OpenCV, Hugging Face, LangChain, LangGraph, FastAPI, Gradio, FAISS, Pinecone, scikit-learn, NumPy, Pandas.
 
 **Infrastructure:** HPC clusters, A100/V100/H100 GPUs, Docker, Git, AWS, Azure.
 
