@@ -1,20 +1,34 @@
 ---
-layout: single
 title: Home
+permalink: /
 author_profile: true
 ---
 
-# Shyam Sundar Debsarkar
+<div class="profile-hero">
+  <h1>Shyam Sundar Debsarkar</h1>
 
-## AI Researcher | PhD (ABD), Computer Science | University of Cincinnati
+  <h2>
+    AI Researcher | PhD (ABD), Computer Science |
+    University of Cincinnati
+  </h2>
 
-I develop AI systems for **multimodal learning, medical imaging, foundation models, LLM/VLM systems, RAG, Agentic AI, diffusion models, and computational pathology**. My work connects biomedical AI research with practical software engineering and deployable AI tools.
+  <p>
+    I build multimodal AI, foundation models, medical imaging,
+    RAG, agentic AI, and generative AI systems for scientific
+    and biomedical applications.
+  </p>
 
-[Download CV](/cv/) · [Publications](/publications/) · [Projects](/projects/) · [Research](/research/) · [Contact](/contact/)
-
----
+  <div class="hero-buttons">
+    <a href="/cv/">Download CV</a>
+    <a href="/publications/">Publications</a>
+    <a href="/projects/">Projects</a>
+    <a href="/contact/">Contact</a>
+  </div>
+</div>
 
 ## Research & Engineering Profile
+
+...
 
 **Primary Areas:** Multimodal AI, Computer Vision, Medical Imaging, Computational Pathology, Foundation Models, LLMs, VLMs, Agentic AI, RAG, Generative AI, Diffusion Models, TEM Image Analysis.
 
