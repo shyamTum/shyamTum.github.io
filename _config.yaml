@@ -3,7 +3,7 @@ name: "Shyam Sundar Debsarkar"
 description: "AI Research Scientist | PhD Candidate | Multimodal & Agentic AI for Biomedical Imaging"
 url: "https://shyamTum.github.io"
 baseurl: ""
-url: "mailto:debsarss@mail.uc.edu"
+email: "debsarss@mail.uc.edu"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -27,7 +27,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:YOUR_EMAIL_HERE"
+      url: "mailto:debsarss@mail.uc.edu"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=F7fDbbwAAAAJ&hl=en"
