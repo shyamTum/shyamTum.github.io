@@ -17,7 +17,7 @@ author_profile: true
 
 I am **Shyam Sundar Debsarkar**, a PhD (ABD) researcher in Computer Science at the University of Cincinnati. My research focuses on building AI systems that combine **computer vision, medical imaging, multimodal learning, LLMs, VLMs, RAG, agentic AI, and generative AI** for clinically and scientifically meaningful applications.
 
-My background combines **AI research and software engineering**, with more than 10 years of experience across academic research, industrial AI development, and software architecture. I am especially interested in developing reliable, interpretable, and deployable AI systems that can support biomedical discovery, computational pathology, scientific workflows, and real-world decision support.
+My background combines **AI research and software engineering**, with more than 6 years of experience across academic research, industrial AI development, and software architecture. I am especially interested in developing reliable, interpretable, and deployable AI systems that can support biomedical discovery, computational pathology, scientific workflows, and real-world decision support.
 
 ---
 ## Technical Expertise
