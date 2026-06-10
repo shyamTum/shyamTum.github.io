@@ -1,5 +1,5 @@
 ---
-title: Shyam Sundar Debsarkar | PhD Candidate, University of Cincinnati
+title: 
 permalink: /
 author_profile: true
 ---
