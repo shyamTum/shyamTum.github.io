@@ -59,15 +59,15 @@ search: true
 twitter:
   username: ""
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-C8TH16Q79Y"
+    anonymize_ip: false
+
 # Exclude clutter
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-C8TH16Q79Y"
-    anonymize_ip: false
