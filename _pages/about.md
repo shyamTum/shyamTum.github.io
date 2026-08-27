@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="profile-hero">
   <h1>About Me</h1>
-  <h2>AI Researcher | PhD (ABD), Computer Science | University of Cincinnati</h2>
+  <h2>AI Researcher | PhD, Computer Science | University of Cincinnati</h2>
   <p>
     I develop multimodal AI, medical imaging, foundation model, LLM/VLM, RAG, agentic AI, and generative AI systems for biomedical and scientific applications.
   </p>
@@ -15,7 +15,7 @@ author_profile: true
 
 ## Professional Summary
 
-I am **Shyam Sundar Debsarkar**, a PhD (ABD) researcher in Computer Science at the University of Cincinnati. My research focuses on building AI systems that combine **computer vision, medical imaging, multimodal learning, LLMs, VLMs, RAG, agentic AI, and generative AI** for clinically and scientifically meaningful applications.
+I am **Shyam Sundar Debsarkar**, completed PhD in Computer Science at the University of Cincinnati. My research focuses on building AI systems that combine **computer vision, medical imaging, multimodal learning, LLMs, VLMs, RAG, agentic AI, and generative AI** for clinically and scientifically meaningful applications.
 
 My background combines **AI research and software engineering**, with more than 6 years of experience across academic research, industrial AI development, and software architecture. I am especially interested in developing reliable, interpretable, and deployable AI systems that can support biomedical discovery, computational pathology, scientific workflows, and real-world decision support.
 
