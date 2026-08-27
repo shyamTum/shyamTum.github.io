@@ -8,7 +8,7 @@ author_profile: true
   <h1>Shyam Sundar Debsarkar</h1>
 
   <h2>
-    AI Researcher | PhD (ABD), Computer Science |
+    AI Researcher | PhD, Computer Science |
     University of Cincinnati
   </h2>
 
