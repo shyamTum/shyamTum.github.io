@@ -21,7 +21,7 @@ highlighter: rouge
 # Site author (used by theme)
 author:
   name: "Shyam Debsarkar"
-  avatar: "/assets/img/headshot.jpg"
+  avatar: "/assets/headshot.jpeg"
   bio: "PhD (ABD), Computer Science. AI Researcher in Multimodal AI, Medical Imaging, LLMs, VLMs, RAG, and Generative AI."
   location: "Cincinnati, OH, USA"
   links:
