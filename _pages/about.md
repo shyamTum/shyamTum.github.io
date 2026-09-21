@@ -126,7 +126,7 @@ Beyond model development, I build practical AI systems with retrieval, reasoning
 ## Education
 
 <div class="project-card">
-<h3>PhD (ABD), Computer Science</h3>
+<h3>PhD, Computer Science</h3>
 <p><strong>University of Cincinnati, USA</strong></p>
 <p>Research focus: AI, computer vision, medical imaging, multimodal learning, biomedical AI, and generative AI.</p>
 </div>
