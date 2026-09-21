@@ -22,7 +22,7 @@ highlighter: rouge
 author:
   name: "Shyam Debsarkar"
   avatar: "/assets/headshot.jpeg"
-  bio: "PhD (ABD), Computer Science. AI Researcher in Multimodal AI, Medical Imaging, LLMs, VLMs, RAG, and Generative AI."
+  bio: "PhD, Computer Science. AI Researcher in Multimodal AI, Medical Imaging, LLMs, VLMs, RAG, and Generative AI."
   location: "Cincinnati, OH, USA"
   links:
     - label: "Email"
